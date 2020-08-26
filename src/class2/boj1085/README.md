@@ -6,7 +6,7 @@
 
 ### 🔥 HEE
 
-![image-20200826233250881](C:\Users\HEEJIN\AppData\Roaming\Typora\typora-user-images\image-20200826233250881.png)
+![image](https://user-images.githubusercontent.com/25292715/91323412-cf5ce280-e7fb-11ea-9caa-fadfe2a61996.png)
 
 x, w-x, y, h-y 의 최소값
 
