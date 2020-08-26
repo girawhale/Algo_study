@@ -3,7 +3,7 @@
 
 
 
-#### :fire: 1n9yun
+#### :boom:1n9yun​​
 
 * 앞에서 꺼내서 뒤에 넣는다?
 * deque
