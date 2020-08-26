@@ -46,5 +46,3 @@ public class Boj1920_1n9yun {
 		bw.flush();
 	}
 }
-
-// 이분 탐색..
