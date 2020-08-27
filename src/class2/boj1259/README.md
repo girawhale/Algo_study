@@ -18,3 +18,9 @@
 * 근데 오래걸리니까 charAt을 쓰자
 
 ---
+
+#### :whale: girawhale
+
+![image](https://user-images.githubusercontent.com/48428699/91386299-b0973400-e86d-11ea-9f51-f71580437394.png)
+
+- 숫자를 String으로 입력받아 제일 앞과 뒤에 포인트를 지정하고 한칸씩 이동하며 체크
