@@ -12,3 +12,9 @@
 
 ---
 
+### :whale: girawhale
+
+![image](https://user-images.githubusercontent.com/48428699/91386437-f653fc80-e86d-11ea-8097-5dc9b2b6480e.png)
+
+- 귀찮아서 0부터 숫자를 증가시키며 String 형태로 변환시켜 "666"이 들어갈 경우만 카운트.
+- 해당 인덱스가 된다면 break하여 
