@@ -20,3 +20,10 @@ BFS를 써서 시간과 메모리가 어마무시하게 큰 것 같다.
 * (1 << 31) - 1 == Integer.MAX_VALUE
 
 ---
+
+#### :whale: girawhale
+![image](https://user-images.githubusercontent.com/48428699/91385642-5a75c100-e86c-11ea-8f0e-5e8a29ab5f1f.png)
+
+- char로 체크하기 귀찮아서 boolean으로 다를 경우를 체크
+- 0,0부터 해당 칸까지 직사각형을 그리고 해당칸까지 다른 값들을 누적
+- 8\*8 의 크기를 모두 돌며 가장 작은 값을 찾아  
