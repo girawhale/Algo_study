@@ -2,7 +2,7 @@ package class2.boj2775;
 
 import java.util.Scanner;
 
-public class Boj2275_sh {
+public class Boj2775_sh {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int TC = sc.nextInt();
