@@ -17,3 +17,11 @@ https://www.acmicpc.net/problem/1874
 
 - push 하는 값과 pop 하는 카운트를 이용
 - n번 pop 할 때까지 반복
+
+
+---
+
+#### :boom: 1n9yun
+![image](https://user-images.githubusercontent.com/38209225/91534539-a5ff9c00-e94c-11ea-95c2-161893184fb4.png)
+
+
