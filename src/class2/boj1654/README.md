@@ -8,3 +8,10 @@
 - 최적값을 찾는 것이 목적이다보니 이분탐색 돌면서 가장 긴 전선의 길이가 나오도록 돌림
 - 정해진 수보다 많이 나오면 일단 누적하고 start를 변경
 - 정해진 수보다 적게 나오면 end를 변경
+
+---
+#### :octocat: Taekyung2
+![image](https://user-images.githubusercontent.com/37056992/91516542-ba30a280-e926-11ea-8e50-b2fc94a079a0.png)
+
+- 전형적인 이분탐색
+- low 값이 high 값보다 크거나 같을 때 까지 범위를 좁힌다 

@@ -7,13 +7,13 @@ public class Boj1654_tk {
 		Scanner sc = new Scanner(System.in);
 		int k = sc.nextInt();
 		int n = sc.nextInt();
-		double[] line = new double[k];
+		long[] line = new long[k];
 		for(int i = 0; i < k; i++)
-			line[i] = sc.nextDouble();
-		double lo = 1, hi = Math.pow(2, 31) - 1;
+			line[i] = sc.nextLong();
+		long lo = 1, hi = (long)Math.pow(2, 31) - 1;
 		while(lo <= hi) {
 			int cnt = 0;
-			double mid = (lo + hi) / 2;
+			long mid = (lo + hi) / 2;
 			for(int i = 0; i < k; i++)
 				cnt += line[i] / mid;
 			if(cnt >= n) lo = mid + 1;

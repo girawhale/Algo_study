@@ -10,3 +10,9 @@
 * 입/출력 10만개 이상은 BufferedReader/Writer 쓰고있음
 
 ---
+
+#### :octocat: Taekyung2
+![image](https://user-images.githubusercontent.com/37056992/91516985-ccf7a700-e927-11ea-909d-fdb8fb4678a5.png)
+
+- 정렬한 뒤 이분탐색
+- Arrays.binarySearch() 
