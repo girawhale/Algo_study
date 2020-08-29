@@ -1,12 +1,12 @@
 ## 문제
-> [Boj 18111. 마인크래프트](https://www.acmicpc.net/problem/18111)
+> [Boj 15829. Hashing](https://www.acmicpc.net/problem/15829)
 
 
 ### :whale: girawhale
 
-![image](https://user-images.githubusercontent.com/48428699/91641497-c1a79700-ea5f-11ea-9046-36c71af4d071.png)
+![image](https://user-images.githubusercontent.com/48428699/91641423-39c18d00-ea5f-11ea-906c-4a9729049070.png)
 
-- 최대로 돌 수 있는 경우의 수가 500*500*256이라서 그냥 완탐을 하기로 함
-- 맵에서 가장 작은 높이부터 가장 높은 높이까지 돌면서 칸을 맞춰보고
-- 인벤의 수가 음수이면 pass, 양수면서 이전 답 이상이면 값을 바꿔줌
-- 이전에 푼 코드가 더 빨라서 보니까 높이를 카운팅함. 그게 훨씬 좋은 방법인듯
+- 처음에는 pow를 직접 구현했다가 어차피 31만 제곱해서 메모형태로 변경함
+- 입력받은 String을 하나씩 charAt으로 뽑으면서 pow값을 곱해주고 % MOD 한 값을 hash에 더해줌
+- 처음에 계산한 hash에 MOD 안해줘서 틀렸음 
+- MOD를 수시로 해주자!
