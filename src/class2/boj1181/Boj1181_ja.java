@@ -32,13 +32,7 @@ public class Boj1181_ja {
 
 			@Override
 			public int compare(String o1, String o2) {
-				if(o1.length() <= o2.length()) {
-					if(o1.length() == o2.length()) {
-						return o1.compareTo(o2);
-					}
-					return -1;
-				}
-				return 1;
+				return o1.length() == o2.length()? o1.compareTo(o2):o1.length() - o2.length();
 			}
 		});
 		for(String s : arr) {
