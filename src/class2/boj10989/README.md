@@ -8,3 +8,11 @@
 
 - 숫자의 범위가 작은데 수의 갯수가 많아 카운팅 정렬을 해야겠다는 생각이 들었음
 - N이 커서 bufferedReader로 입력받았고, 1 ~ 10000까지 돌며 갯수만큼 출력
+
+---
+### :octocat: Taekyung2
+![image](https://user-images.githubusercontent.com/37056992/91847477-6b239e00-ec95-11ea-9eb8-7be5e09f86fe.png)
+
+- 숫자 범위가 10000 이하
+- 최대 10000000개
+- 카운팅 
