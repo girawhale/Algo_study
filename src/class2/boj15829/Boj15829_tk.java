@@ -2,7 +2,7 @@ package class2.boj15829;
 
 import java.util.Scanner;
 
-public class Boj15829 {
+public class Boj15829_tk {
 	static final int MOD = 1234567891;
 	static final int MULTIPLY = 31;
 	public static void main(String[] args) {
