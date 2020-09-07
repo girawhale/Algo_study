@@ -28,6 +28,6 @@ x, w-x, y, h-y 의 최소값
 ---
 
 ### 😊 JinA
-![image](https://user-images.githubusercontent.com/52408122/91785610-beb7cc80-ec40-11ea-93c6-809b306c16a8.png)
+![image] (https://user-images.githubusercontent.com/52408122/91785610-beb7cc80-ec40-11ea-93c6-809b306c16a8.png)
 
 - Taekyung2과 동일

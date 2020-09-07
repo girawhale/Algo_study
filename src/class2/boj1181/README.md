@@ -30,6 +30,7 @@ Comparator을 사용하여 단어의 길이가 다르면 짧은 순으로, 같�
 ---
 
 ### 😊 JinA
+
 ![image](https://user-images.githubusercontent.com/52408122/91919254-3ef13700-ed00-11ea-9044-654c9c36dcf5.png)
 
 - HashSet으로 중복 제거 후, ArrayList로 변환
