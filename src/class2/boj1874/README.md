@@ -17,3 +17,13 @@ https://www.acmicpc.net/problem/1874
 
 - push 하는 값과 pop 하는 카운트를 이용
 - n번 pop 할 때까지 반복
+
+---
+
+#### 😊 JinA
+
+![image](https://user-images.githubusercontent.com/52408122/92339658-3d55b380-f0f2-11ea-8283-4273b9b20bcb.png)
+
+- 스택.isEmpty이 false이고, 출력되야 하는 수와 동일할 때 pop. 그 외는 push
+- 전부 출력했으면 string 출력, 아니면 NO 출력
+- StringBuffer 안 쓰면 메모리 초과 😥
