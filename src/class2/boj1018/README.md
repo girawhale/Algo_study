@@ -38,3 +38,15 @@ BFS를 써서 시간과 메모리가 어마무시하게 큰 것 같다.
 - 행과 열이 둘다 짝수이거나 홀수면 'W' 아니면 'B'
 - 최대 64개에서 바꿀 경우를 카운트
 - 64 - cnt 와 cnt 중 작은 것 리턴  
+
+---
+
+### 😊 JinA
+![image](https://user-images.githubusercontent.com/52408122/92066760-a3ce8f00-eddd-11ea-9cb4-e218e8972eba.png)
+
+- data는 boolean값으로 저장
+- 첫 번째, ( 행:N, 열: M을 8개씩 나눌 때의 경우의 수 )인 change 배열을 두 개 생성 -> start가 검은색(B) or 흰색(W)
+- 두 번쨰, 일단 가로 한 줄씩, M을 8개씩 나눌 떄의 경우에 따라 다시 칠해야하는 횟수를 count하여 change 배열에 저장
+		(boolean 변수 하나를 switch하여 start의 색상에 따라 count를 다르게 따짐)
+- 세 번째, 다음은 세로 한 줄씩, N을 8개씩 나눌 때의 경우에 따라  change 배열의 값을 sum하며, min값과 비교 및 저장
+- return min.

@@ -26,3 +26,11 @@
 ![image](https://user-images.githubusercontent.com/48428699/91386299-b0973400-e86d-11ea-9f51-f71580437394.png)
 
 - 숫자를 String으로 입력받아 제일 앞과 뒤에 포인트를 지정하고 한칸씩 이동하며 체크
+
+---
+
+#### 😊 JinA
+
+![image](https://user-images.githubusercontent.com/52408122/92186429-b2767e00-ee91-11ea-99da-e3a7fe9b3b4c.png)
+
+- hee와 동일
