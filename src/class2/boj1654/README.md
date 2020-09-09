@@ -15,3 +15,12 @@
 
 - 전형적인 이분탐색
 - low 값이 high 값보다 크거나 같을 때 까지 범위를 좁힌다 
+
+---
+
+#### :boom: 1n9yun
+![image](https://user-images.githubusercontent.com/38209225/91537505-5ec7da00-e951-11ea-8b9b-3faeabb75b18.png)
+
+- 이분탐색 왜케 많아
+- 길이를 이분탐색 하고
+- 기준은 그 길이로 만들 수 있는 랜선 개수

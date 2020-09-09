@@ -24,4 +24,7 @@ https://www.acmicpc.net/problem/1874
 #### :boom: 1n9yun
 ![image](https://user-images.githubusercontent.com/38209225/91534539-a5ff9c00-e94c-11ea-95c2-161893184fb4.png)
 
+- 출력 어케하지 고민했었는데 스트링에 개행 넣으면 되는구나?
+- 입력 받은 수 까지 push, 그리고 pop
+- 입력 받은 수가 최근에 넣은 수 보다 작으면 pop해야 되는데 그 수는 현재 stack의 top과 같아야 함 다르면 불가능한 경우.
 

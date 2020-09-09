@@ -4,9 +4,10 @@
 
 
 #### :boom:1n9yun​​
+![image](https://user-images.githubusercontent.com/38209225/91537109-b9146b00-e950-11ea-81ea-7dc96480a206.png)
 
-* 앞에서 꺼내서 뒤에 넣는다?
-* deque
+- 앞에서 꺼내서 뒤에 넣는다?
+- deque
 
 ---
 

@@ -4,10 +4,11 @@
 
 
 #### :boom:1n9yun
+![image](https://user-images.githubusercontent.com/38209225/91537021-971ae880-e950-11ea-948c-96b0b2578b79.png)
 
-* 이분 탐색 문제
-* 이분 탐색 하려면 정렬 되어 있어야 함
-* 입/출력 10만개 이상은 BufferedReader/Writer 쓰고있음
+- 이분 탐색 문제
+- 이분 탐색 하려면 정렬 되어 있어야 함
+- 입/출력 10만개 이상은 BufferedReader/Writer 쓰고있음
 
 ---
 
