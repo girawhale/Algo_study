@@ -10,3 +10,9 @@
 - Map을 활용하는 문제
 - (key=인덱스, value=포켓몬), (key=포켓몬, value=인덱스)인 두가지 경우를 모두 put
 - put이 끝난 후 key값에 해당하는 value들을 출력
+
+### :octocat: Taekyung2
+
+![image](https://user-images.githubusercontent.com/37056992/96285056-65053900-1019-11eb-91f4-c0185c47badc.png)
+
+- 송희랑 같음

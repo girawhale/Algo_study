@@ -19,7 +19,7 @@ public class Boj1463_tk {
 		if(ret != -1) return ret;
 		ret = Integer.MAX_VALUE;
 		if(n % 3 == 0) ret = Math.min(ret, 1 + recur(n / 3));
-		if(n % 2 == 0) ret = Math.min(ret,  1 + recur(n / 2));
+		if(n % 2 == 0) ret = Math.min(ret, 1 + recur(n / 2));
 		ret = Math.min(ret,  1 + recur(n - 1));
 		return cache[n] = ret;
 	}
