@@ -23,34 +23,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651976fd-439c-4fbd-a0d5-60aead487e9d" name="Default Changelist" comment="change gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/Algo_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj2178/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj2579/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj2606/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj2630/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj2667/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj5430/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj5525/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj6064/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj7662/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj9019/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj9095/REAEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class3/boj9205/REAEME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/boj1764/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj1764/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/boj1780/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj1780/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/boj1927/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj1927/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/boj1931/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj1931/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class3/boj1992/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj1992/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj10026/Boj10026_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj10026/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11047/Boj11047_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11047/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11279/Boj11279_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11279/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11286/Boj11286_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11286/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11399/Boj11399_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11399/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11403/Boj11403_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj11403/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj9375/REAEME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj9461/Boj9461_tk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class3/boj9461/REAEME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class3/boj9375/Boj9375_tk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class3/boj9375/Boj9375_tk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Pull.Settings">
     <option name="BRANCH" value="master" />
@@ -72,29 +76,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/class3/boj9205" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/class3/boj11403" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/class3/boj9205" />
-      <recent name="$PROJECT_DIR$/src/class3/boj9095" />
-      <recent name="$PROJECT_DIR$/src/class3/boj9019" />
-      <recent name="$PROJECT_DIR$/src/class3/boj7662" />
-      <recent name="$PROJECT_DIR$/src/class3/boj7569" />
+      <recent name="$PROJECT_DIR$/src/class3/boj11403" />
+      <recent name="$PROJECT_DIR$/src/class3/boj11399" />
+      <recent name="$PROJECT_DIR$/src/class3/boj11286" />
+      <recent name="$PROJECT_DIR$/src/class3/boj11279" />
+      <recent name="$PROJECT_DIR$/src/class3/boj11047" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boj1780_tk">
-    <configuration name="Boj1780_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class3.boj1780.Boj1780_tk" />
+  <component name="RunManager" selected="Application.Boj11403_tk">
+    <configuration name="Boj11047_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.boj11047.Boj11047_tk" />
       <module name="Algo_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3.boj1780.*" />
+          <option name="PATTERN" value="class3.boj11047.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,14 +106,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj9205_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="JavaSE-1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="class3.boj9205.Boj9205_tk" />
+    <configuration name="Boj11279_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.boj11279.Boj11279_tk" />
       <module name="Algo_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3.boj9205.*" />
+          <option name="PATTERN" value="class3.boj11279.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj11286_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.boj11286.Boj11286_tk" />
+      <module name="Algo_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class3.boj11286.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj11399_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.boj11399.Boj11399_tk" />
+      <module name="Algo_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class3.boj11399.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj11403_tk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.boj11403.Boj11403_tk" />
+      <module name="Algo_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class3.boj11403.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Boj9205_tk" />
-      <item itemvalue="Application.Boj1780_tk" />
+      <item itemvalue="Application.Boj11047_tk" />
+      <item itemvalue="Application.Boj11279_tk" />
+      <item itemvalue="Application.Boj11286_tk" />
+      <item itemvalue="Application.Boj11399_tk" />
+      <item itemvalue="Application.Boj11403_tk" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Boj1780_tk" />
-        <item itemvalue="Application.Boj9205_tk" />
+        <item itemvalue="Application.Boj11403_tk" />
+        <item itemvalue="Application.Boj11399_tk" />
+        <item itemvalue="Application.Boj11286_tk" />
+        <item itemvalue="Application.Boj11279_tk" />
+        <item itemvalue="Application.Boj11047_tk" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +200,11 @@
       <workItem from="1602912396140" duration="224000" />
       <workItem from="1602912642119" duration="412000" />
       <workItem from="1602913070269" duration="3866000" />
-      <workItem from="1602918074824" duration="2767000" />
+      <workItem from="1602918074824" duration="3005000" />
+      <workItem from="1603033304231" duration="1883000" />
+      <workItem from="1603111389645" duration="1410000" />
+      <workItem from="1603113141718" duration="4345000" />
+      <workItem from="1603160081913" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="change gitignore">
       <created>1602912939873</created>
@@ -162,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602912939873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[TK] 2020.10.17 README">
+      <created>1602921405343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602921405343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,13 +240,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="change gitignore" />
+    <MESSAGE value="[TK] 2020.10.17 README" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TK] 2020.10.17 README" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="176" key="#Plugins" timestamp="1602912630825">
+    <state x="496" y="176" key="#Plugins" timestamp="1603113131509">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="176" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1602912630825" />
+    <state x="496" y="176" key="#Plugins/0.0.1792.1120@0.0.1792.1120" timestamp="1603113131509" />
     <state x="496" y="184" key="#Plugins/0.23.1792.1027@0.23.1792.1027" timestamp="1602911956717" />
     <state x="384" y="141" key="#Project_Structure" timestamp="1602913800239">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -202,6 +261,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602913654845" />
+    <state x="709" y="270" key="#com.intellij.ide.util.MemberChooser" timestamp="1603112834659">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="270" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1603112834659" />
     <state x="650" y="424" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602912416027">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -210,47 +273,55 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602912612611" />
-    <state width="403" height="1007" key="GridCell.Tab.0.bottom" timestamp="1602914344743">
+    <state width="1750" height="219" key="GridCell.Tab.0.bottom" timestamp="1603125934043">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="403" height="1007" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1602914344743" />
-    <state width="439" height="907" key="GridCell.Tab.0.bottom/0.23.1792.1027@0.23.1792.1027" timestamp="1602911583845" />
-    <state width="403" height="1007" key="GridCell.Tab.0.center" timestamp="1602914344743">
+    <state width="1750" height="219" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1603125934043" />
+    <state width="1750" height="219" key="GridCell.Tab.0.bottom/0.23.1792.1027@0.23.1792.1027" timestamp="1603125838416" />
+    <state width="1750" height="219" key="GridCell.Tab.0.center" timestamp="1603125934043">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="403" height="1007" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1602914344743" />
-    <state width="439" height="907" key="GridCell.Tab.0.center/0.23.1792.1027@0.23.1792.1027" timestamp="1602911583844" />
-    <state width="403" height="1007" key="GridCell.Tab.0.left" timestamp="1602914344742">
+    <state width="1750" height="219" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1603125934043" />
+    <state width="1750" height="219" key="GridCell.Tab.0.center/0.23.1792.1027@0.23.1792.1027" timestamp="1603125838415" />
+    <state width="1750" height="219" key="GridCell.Tab.0.left" timestamp="1603125934042">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="403" height="1007" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1602914344742" />
-    <state width="439" height="907" key="GridCell.Tab.0.left/0.23.1792.1027@0.23.1792.1027" timestamp="1602911583844" />
-    <state width="403" height="1007" key="GridCell.Tab.0.right" timestamp="1602914344743">
+    <state width="1750" height="219" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1603125934042" />
+    <state width="1750" height="219" key="GridCell.Tab.0.left/0.23.1792.1027@0.23.1792.1027" timestamp="1603125838414" />
+    <state width="1750" height="219" key="GridCell.Tab.0.right" timestamp="1603125934043">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="403" height="1007" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1602914344743" />
-    <state width="439" height="907" key="GridCell.Tab.0.right/0.23.1792.1027@0.23.1792.1027" timestamp="1602911583844" />
-    <state x="399" y="103" key="SettingsEditor" timestamp="1602914249105">
+    <state width="1750" height="219" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1603125934043" />
+    <state width="1750" height="219" key="GridCell.Tab.0.right/0.23.1792.1027@0.23.1792.1027" timestamp="1603125838416" />
+    <state x="399" y="103" key="SettingsEditor" timestamp="1603113520531">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="399" y="103" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1602914249105" />
+    <state x="399" y="103" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1603113520531" />
     <state x="463" y="134" key="SettingsEditor/0.23.1792.1027@0.23.1792.1027" timestamp="1602912047013" />
-    <state x="496" y="296" key="Vcs.Push.Dialog.v2" timestamp="1602912991977">
+    <state x="496" y="296" key="Vcs.Push.Dialog.v2" timestamp="1602921430386">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="296" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602912991977" />
+    <state x="496" y="296" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1602921430386" />
+    <state x="634" y="305" key="extract.method.dialog" timestamp="1603124245295">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="305" key="extract.method.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603124245295" />
     <state x="703" y="462" key="git4idea.ui.GitStashDialog" timestamp="1602913034589">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="703" y="462" key="git4idea.ui.GitStashDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1602913034589" />
-    <state x="561" y="248" key="run.anything.popup" timestamp="1602911450850">
-      <screen x="0" y="23" width="1792" height="1027" />
-    </state>
-    <state x="561" y="248" key="run.anything.popup/0.23.1792.1027@0.23.1792.1027" timestamp="1602911450850" />
-    <state x="561" y="248" width="670" height="738" key="search.everywhere.popup" timestamp="1602913965148">
+    <state width="600" height="440" key="javadoc.popup" timestamp="1603113596422">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="248" width="670" height="738" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1602913965148" />
+    <state width="600" height="440" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1603113596422" />
+    <state x="561" y="245" key="run.anything.popup" timestamp="1603160446440">
+      <screen x="0" y="23" width="1792" height="1027" />
+    </state>
+    <state x="561" y="245" key="run.anything.popup/0.23.1792.1027@0.23.1792.1027" timestamp="1603160446440" />
+    <state x="561" y="248" width="670" height="738" key="search.everywhere.popup" timestamp="1603113178357">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="248" width="670" height="738" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1603113178357" />
     <state x="561" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1792.1027@0.23.1792.1027" timestamp="1602911972753" />
   </component>
 </project>
