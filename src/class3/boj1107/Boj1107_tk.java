@@ -13,7 +13,7 @@ public class Boj1107_tk {
 		chk = new boolean[10];
 		for(int i = 0; i < m; i++)
 			chk[sc.nextInt()] = true;
-		ret = (int)Math.abs(n - 100);
+		ret = Math.abs(n - 100);
 		dfs("");
 		System.out.println(ret);
 	}
