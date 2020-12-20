@@ -24,10 +24,10 @@ public class Boj1016_sh {
             if (!prime[(int) i])
                 continue;
 
-            long pow = i * i;
-            for (long j = min / pow; j * pow <= max; j++) {
-                if (j * pow >= min && !ck[(int) (j * pow - min)]) {
-                    ck[(int) (j * pow - min)] = true;
+            long square = i * i;
+            for (long j = min / square + (min % square != 0 ? 1 : 0); j * square <= max; j++) {
+                if (!ck[(int) (j * square - min)]) {
+                    ck[(int) (j * square - min)] = true;
                 }
             }
         }
