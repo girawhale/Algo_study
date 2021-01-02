@@ -1,8 +1,8 @@
-package class4.Boj1918;
+package class4.boj1918;
 
 import java.util.*;
 
-public class boj1918_sh {
+public class Boj1918_sh {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char[] ch = sc.next().toCharArray();

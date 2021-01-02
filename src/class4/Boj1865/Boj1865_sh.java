@@ -1,11 +1,11 @@
-package class4.Boj1865;
+package class4.boj1865;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class boj1865_sh {
+public class Boj1865_sh {
     static int INF = 500 * 10_000;
     static List<int[]> edge;
 

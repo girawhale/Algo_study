@@ -1,8 +1,8 @@
-package class4.Boj1783;
+package class4.boj1786;
 
 import java.util.Scanner;
 
-public class boj1786_sh {
+public class Boj1786_sh {
     static int cnt = 0;
     static StringBuilder sb = new StringBuilder();
 

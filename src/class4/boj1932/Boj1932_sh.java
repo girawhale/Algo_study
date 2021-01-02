@@ -1,8 +1,8 @@
-package class4.Boj1932;
+package class4.boj1932;
 
 import java.util.Scanner;
 
-public class boj1932_sh {
+public class Boj1932_sh {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
