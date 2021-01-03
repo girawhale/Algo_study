@@ -22,7 +22,7 @@
 - 김송희 ([girawhale](https://github.com/girawhale))
 - 이태경 ([Taekyung2](https://github.com/Taekyung2))
 - 조희진 ([Heezzan](https://github.com/Heezzan))
-- 정진아 ([JA-Project](https://github.com/Heezzan))
+- 정진아 ([JA-Project](https://github.com/JA-Project))
 - 정인균 ([1n9yun](https://github.com/1n9yun))
 
   <br>
