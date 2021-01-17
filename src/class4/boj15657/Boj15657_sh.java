@@ -1,14 +1,12 @@
 package class4.boj15657;
 
 import java.util.Arrays;
-import java.util.LinkedHashSet;
 import java.util.Scanner;
 
 public class Boj15657_sh {
     static int N, M;
     static int[] nums, perm;
-    static boolean[] visit;
-    static LinkedHashSet<String> ans;
+    static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -17,35 +15,27 @@ public class Boj15657_sh {
 
         nums = new int[N];
         perm = new int[M];
-        visit = new boolean[N];
-        ans = new LinkedHashSet<>();
 
         for (int i = 0; i < N; i++)
             nums[i] = sc.nextInt();
 
         Arrays.sort(nums);
-        permutation(0);
+        permutation(0, 0);
 
-        ans.forEach(System.out::println);
+        System.out.println(sb.toString());
     }
 
-    static void permutation(int cnt) {
+    static void permutation(int idx, int cnt) {
         if (cnt == M) {
-            StringBuilder sb = new StringBuilder();
             for (int p : perm)
                 sb.append(p).append(' ');
-            ans.add(sb.toString());
+            sb.append('\n');
             return;
         }
 
-        for (int i = 0; i < N; i++) {
-            if (visit[i])
-                continue;
-
-            visit[i] = true;
+        for (int i = idx; i < N; i++) {
             perm[cnt] = nums[i];
-            permutation(cnt + 1);
-            visit[i] = false;
+            permutation(i, cnt + 1);
         }
     }
 }
